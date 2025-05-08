@@ -50,7 +50,7 @@ NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=your_clerk_key
 CLERK_SECRET_KEY=your_clerk_secret
 NEXT_PUBLIC_STREAM_API_KEY=your_stream_key
 STREAM_API_SECRET=your_stream_secret
-Run the App
+
  ```bash
    git clone https://github.com/your-username/video-conferencing-app.git
    cd video-conferencing-app
